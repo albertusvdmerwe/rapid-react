@@ -1,0 +1,11 @@
+{
+  "name": "reacto-gen",
+  "version": "1.0.1",
+  "description": "CLI that can generate a variety of different React Components and React Query hooks that will facilitate sending network requests.",
+  "keywords": [],
+  "author": {
+    "name": "Albert van der Merwe",
+    "email": "albertusvdmerwe@gmail.com"
+  },
+  "license": "MIT"
+}
