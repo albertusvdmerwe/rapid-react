@@ -19,3 +19,12 @@ This CLI has been written for the user of it to be able to install it in their p
 
 - Then use your command line to run:
 `npm run reacto-gen` or `yarn reacto-gen`.
+
+## DevOps
+
+### Tools set up for code quality
+
+- ESlint - Identify Javascript issues
+- Prettier - Format files in a set way
+- Lint Staged - Ensure that staged files are checked by ESLint and Prettier before a Git commit is created.
+- Husky - Use lint-staged during the pre-commit hook.
