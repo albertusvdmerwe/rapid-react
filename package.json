@@ -3,7 +3,8 @@
   "version": "1.0.1",
   "description": "CLI that can generate a variety of different React Components and React Query hooks that will facilitate sending network requests.",
   "scripts": {
-    "format": "npx prettier --write ."
+    "format": "npx prettier --write .",
+    "prepare": "husky"
   },
   "keywords": [],
   "author": {
@@ -16,6 +17,7 @@
     "eslint-config-prettier": "8.7.0",
     "eslint-plugin-import": "2.28.0",
     "eslint-plugin-prettier": "5.0.0",
+    "husky": "^9.0.11",
     "lint-staged": "13.2.0",
     "prettier": "3.0.1"
   },
