@@ -1,5 +1,5 @@
 {
-  "name": "reacto-gen",
+  "name": "rapid-react",
   "version": "1.0.1",
   "description": "CLI that can generate a variety of different React Components and React Query hooks that will facilitate sending network requests.",
   "scripts": {
